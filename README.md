@@ -23,7 +23,11 @@ Este projeto possui finalidade educacional e foi desenvolvido como parte de uma 
 Roberta de O. Simão Dias - Projeto desenvolvido para fins de aprendizado e portfólio profissional.
 ## 📊 Resultado
 ## 🖼️ Visualização do projeto
+
 ### Simulador
+
 ![Simulador de Investimentos](images/simulador.png)
+
 ### Tabela de apoio
+
 ![Tabela de Apoio](images/tabela-apoio.png)
